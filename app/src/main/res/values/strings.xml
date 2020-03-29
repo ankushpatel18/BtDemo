@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BluetoothCalc</string>
+    <string name="enter_number">Enter number</string>
+    <string name="multiply"> * </string>
+    <string name="divide"> / </string>
+    <string name="available_devices">Available devices</string>
+    <string name="no_bluetooth_device_is_connected">No bluetooth device is connected.</string>
+    <string name="connect_to_a_device">Connect to a device</string>
+    <string name="bluetooth_device_is_connected">Bluetooth device is connected.</string>
+    <string name="grant_location_permission">Location permission is required for bluetooth device discovery. Please allow related access.</string>
+    <string name="bluetooth_device_is_connected_as_server">Bluetooth device connected as server</string>
+    <string name="device_calculation_data">Device calculation data</string>
+    <string name="remote_calculation_data">Remote calculation data</string>
+    <string name="pairing_device">Pairing device</string>
+    <string name="connecting_device">Connecting device</string>
+    <string name="activity_home_label">Bluetooth Calculator</string>
+    <string name="activity_device_list_label">Bluetooth devices</string>
+</resources>
